@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+youtube-transcript-api>=1.2,<2
+langchain-openai>=1,<2
+langchain-community>=0.4,<0.5
+langchain-text-splitters>=1,<2
+faiss-cpu>=1.9,<2
+python-dotenv>=1,<2
+scikit-learn>=1.5,<2
